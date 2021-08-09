@@ -296,52 +296,44 @@ export const products = [
     },
     {
         id: 'product-12',
-        name: 'Professional Radio',
+        name: 'Wireless Headphones',
         price: 109.00,
         discount: 110.89,
         image: './img/img12.png',
         description: [
             {
-                title: 'Emergency Radio',
-                text: 'Radios provide reliable communication which is not dependent on satellites and cellular networks that can be the difference between getting experienced help in an emergency and being left on your own when you need assistance.',
+                text: 'Dynamic audio and active noise cancellation (ANC) - Premium speakers deliver crisp, balanced sound. Sealed in-ear design and ANC limit background noise.',
             },
             {
-                title: 'Antenna Warning Indicator',
-                text: 'Take the guess work out of checking your antenna, a light will automatically illuminate if your system needs to be checked.',
+                text: 'Compact and comfortable - are small, light, and sweat-resistant, with a secure, customizable fit that\'s made to move with you.',
             },
             {
-                title: '4 Watt Output',
-                text: 'Giving you the best range of communication with the maximum power allowed by law.',
+                text: 'Long-lasting battery - Get up to 5 hrs music playback per charge and up to 15 hrs with the charging case. A 15-min quick charge provides up to 2 hrs of music.',
             },
             {
-                title: 'Instant Channel 9',
-                text: 'Immediate access to Emergency channel 9 to ensure you\'re driving safely from the very beginning.',
-            },
-            {
-                title: '40 Channel Access',
-                text: 'Scan the complete range of 40 channels for full coverage of CB stations.',
+                text: 'Leave your phone in your pocket - Use your voice to make calls, set reminders, add items to your shopping list, or even start a meditation session.',
             },
         ],
-        images: ['./img/img12-1.jpg', './img/img12-2.jpg'],
+        images: ['./img/img12-1.png', './img/img12-2.png'],
     },
     {
         id: 'product-13',
-        name: 'Desktop External Hard Drive',
+        name: 'Smart watch',
         price: 119.00,
         discount: 120.88,
         image: './img/img13.png',
         description: [
             {
-                text: 'Auto backup with included WD Backup software and Time Machine compatibility.',
+                text: 'Based on your heart rate, time asleep and restlessness, sleep score helps you better understand your sleep quality each night; also track your time in light, deep and REM sleep stages and get personal insights.',
             },
             {
-                text: 'Password protection with hardware encryption.',
+                text: 'With a larger display and an always on option, your information’s always a quick glance away (always on display requires more frequent charging).',
             },
             {
-                text: 'Trusted storage built with WD reliability.',
+                text: 'Track heart rate 24x7, steps, distance, calories burned, hourly activity, active minutes and floors climbed. Syncing range - up to 6.1 meters.',
             },
             {
-                text: 'USB 3.0 port; USB 2.0 compatible.',
+                text: 'Works around the clock with 6 plus day battery life (varies with use and other factors).',
             },
         ],
         images: ['./img/img13-1.png', './img/img13-2.png'],
