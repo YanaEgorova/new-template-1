@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #a5a5a5;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: red;
+
+  --first-brand-color: #f0dac5;
+  --second-brand-color: #1c2340;
+  --third-brand-color: #50223c;
+
+  --main-font: 'Open Sans Condensed';
+  --title-font: 'Poppins';
+
+  font-size: 62.5%;
+}
