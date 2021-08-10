@@ -296,22 +296,19 @@ export const products = [
     },
     {
         id: 'product-12',
-        name: 'Wireless Headphones',
+        name: 'Infant Car Seat Base',
         price: 109.00,
         discount: 110.89,
         image: './img/img12.png',
         description: [
             {
-                text: 'Dynamic audio and active noise cancellation (ANC) - Premium speakers deliver crisp, balanced sound. Sealed in-ear design and ANC limit background noise.',
+                text: 'SnugLock Technology features a hassle free 3 step installation',
             },
             {
-                text: 'Compact and comfortable - are small, light, and sweat-resistant, with a secure, customizable fit that\'s made to move with you.',
+                text: 'Easy to read bubble level indicator helps eliminate installation guesswork',
             },
             {
-                text: 'Long-lasting battery - Get up to 5 hrs music playback per charge and up to 15 hrs with the charging case. A 15-min quick charge provides up to 2 hrs of music.',
-            },
-            {
-                text: 'Leave your phone in your pocket - Use your voice to make calls, set reminders, add items to your shopping list, or even start a meditation session.',
+                text: 'Adjustable base with 4 recline positions lets you customize fit to your vehicle; store the manual in the easily accessible manual storage location',
             },
         ],
         images: ['./img/img12-1.png', './img/img12-2.png'],
