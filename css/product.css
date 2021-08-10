@@ -84,6 +84,9 @@
     width: 4rem;
     text-align: center;
 }
+.disable-btn {
+    pointer-events: none;
+}
 .prod__payments-box {
     display: flex;
     align-items: center;
