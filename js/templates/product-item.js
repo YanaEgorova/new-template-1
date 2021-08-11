@@ -1,4 +1,5 @@
 export const item = (product) => {
+  console.log('product', product.price)
 
   return `
     <li class="item">
@@ -10,7 +11,7 @@ export const item = (product) => {
         <div class="product__text-box">
         <p class="product__name js_product-name">${product.name}</p>
         <div class="product__price-box">
-          <span class="product__price">$${product.price}</span>
+          <span class="product__price">$${(product.price).toFixed(2)}</span>
           ${product.discount ? `<span class="product__discount">$${product.discount}</span>` : ''}
         </div>
         </div>

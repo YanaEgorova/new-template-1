@@ -100,9 +100,9 @@ function priceAmount(value) {
         case 10:
         return 89.99;
         case 11:
-        return 109;
+        return 109.00;
         case 12:
-        return 119;
+        return 119.00;
     }
 }
 

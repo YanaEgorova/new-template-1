@@ -12,3 +12,5 @@ container.insertAdjacentHTML('beforeend', productTemplate(product, amount));
 
 
 
+
+
